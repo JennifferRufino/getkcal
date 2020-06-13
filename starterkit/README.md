@@ -2,8 +2,7 @@
 
 <h1> GetKcal </h1>
 
-<p> Projeto getkcal desenvolvido tendo como base o vídeo do canal do Mateus Silva</p>
-<a href="https://www.youtube.com/watch?v=yiDq9wUiUjc">
+<p> Projeto getkcal desenvolvido tendo como base o vídeo do canal do Mateus Silva(<a href="https://www.youtube.com/watch?v=yiDq9wUiUjc">)</p>
 
 <h1> Instalação </h1>
 
